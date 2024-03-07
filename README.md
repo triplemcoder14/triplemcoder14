@@ -7,7 +7,7 @@ I'm a Systems Engineer, Interested in kernel currently working as a DevOps Engin
 - 😊 Qules
 - 🌱 I’m currently learning more about Kernels, Open source, and System Programming.
 - 😊 I’m looking forward to becoming a Staff Platform Engineer one day.
-- 💼 Job interests: Linux, Infrastructure, System Programming, Cloud and Backend Engineering.
+- 💼 Job interests: Linux Kernel Development, Infrastructure, System Programming, Cloud and Backend Engineering.
 - 📫 You can contact me by emailing mukhy16@gmail.com.
 
 ---
