@@ -4,8 +4,8 @@ I'm a Systems Engineer, Interested in kernel currently working as a DevOps Engin
 
 **Here's a quick summary about me**:
 
-- 😊 Qules
-- 🌱 I’m currently learning more about Kernels, Cloud Native, Open source, and System Programming.
+- 👩 Qules
+- 🌱 I’m curious about linux Kernel, Distributed systems, Databases, Cloud Native, and System Programming.
 - 😊 I’m looking forward to becoming a Staff Platform Engineer one day.
 - 💼 Job interests: Linux Kernel Development, Infrastructure, System Programming, Cloud Native and Backend Engineering.
 - 📫 You can contact me by emailing mukhy16@gmail.com.
