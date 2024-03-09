@@ -5,7 +5,7 @@ I'm a Systems Engineer, Interested in Linux Kernel and Distributed Systems curre
 **Here's a quick summary about me**:
 
 - 👩 Qules
-- 🌱 I’m curious about Linux Kernel, Distributed systems, Databases, Cloud Native, and System Programming.
+- 🌱 I’m curious about Linux Kernel, Containers, Distributed systems, Databases, Cloud Native, and System Programming.
 - 😊 I’m looking forward to becoming a Staff Platform Engineer one day.
 - 💼 Job interests: Linux Kernel Development, SRE, System Programming, Cloud Native and Backend Engineering.
 - 📫 You can contact me by emailing mukhy16@gmail.com.
